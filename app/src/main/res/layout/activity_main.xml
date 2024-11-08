@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:src="@drawable/obraz"
         android:layout_margin="-10dp"
-        android:scaleType="fitCenter"
+        android:scaleType="fitXY"
         android:padding="-10dp"
 
 
